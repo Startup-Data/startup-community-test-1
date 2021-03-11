@@ -67,6 +67,6 @@ startups by scraping scripts
 
  ## Related news:
 
-1- [GitHub Enterprise](https://github.com/enterprise) is now free through Microsoft for Startups ([link])(https://github.blog/2020-02-13-github-enterprise-is-now-free-through-microsoft-for-startups/)
+1- [GitHub Enterprise](https://github.com/enterprise) is now free through Microsoft for Startups [(link)](https://github.blog/2020-02-13-github-enterprise-is-now-free-through-microsoft-for-startups/)
 
 2- [How to use github for startup works ](https://dev.to/mesadhan/the-complete-dev-startup-organization-setup-with-github-44kk)
